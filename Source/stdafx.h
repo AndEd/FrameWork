@@ -15,3 +15,6 @@
 //Source
 #include "CustomVertex.h"
 #include "CSingleInstance.h"
+
+//Framework
+#include "DirectX.h"
