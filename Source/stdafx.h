@@ -1,4 +1,7 @@
 #include <iostream>
+#include <string>
+#include <random>
+
 #include <d3dx9.h>
 
 #include <Windows.h>
@@ -10,5 +13,5 @@
 #pragma comment(lib, "d3d9.lib")
 
 //Source
-
 #include "CustomVertex.h"
+#include "CSingleInstance.h"
